@@ -1,0 +1,2 @@
+D:\jocuri\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\jocuri\ConsoleApplication1\Debug\ConsoleApplication1.pdb
